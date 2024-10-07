@@ -19,11 +19,11 @@ To write a program to predict car prices using a linear regression model and tes
 9. Output Results: Display the predictions and evaluation metrics.
 
 ## Program:
-```
+```python
 /*
  Program to implement linear regression model for predicting car prices and test assumptions.
-Developed by: Hanshika Varthini R
-RegisterNumber:  212223240046
+Developed by: Ragul R
+RegisterNumber:  212222100040
 */
 # Import necessary libraries
 import pandas as pd
